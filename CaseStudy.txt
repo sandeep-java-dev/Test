@@ -1,0 +1,8 @@
+Medi Plagiarism is one of the best online plagiarism check application. Medi wants to enhance its services and want to perform better, in order to do that Medi is looking for an application
+Application has to read a document.
+Separate all the words and display on the basis of its size.
+Such as:
+List of four-letter words.
+List of five letter words and so on.
+
+Note: no need to render words below four letters.
